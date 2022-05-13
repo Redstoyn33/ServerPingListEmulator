@@ -18,13 +18,11 @@ def getRes():
   },
   "players": {
     "max": 0,
-    "online": 0,
-    "sample": []
+    "online": 0
   },
   "description": {
     "text": "0"
-  },
-  "favicon": "data:image/png;base64,<data>"
+  }
 }"""
 
 

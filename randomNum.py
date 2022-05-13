@@ -28,8 +28,7 @@ def getRes():
   },
   "description": {
     "text": "Test"
-  },
-  "favicon": "data:image/png;base64,<data>"
+  }
 }"""
 
 
